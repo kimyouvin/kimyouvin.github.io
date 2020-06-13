@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "나태지옥 대기 1순위일까봐 만든 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "유어리"
+name                     : "Youairy"
 description              : ""
 url                      : "https://kimyouvin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
