@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발하는 유어리"
+title                    : "나태지옥 대기 1순위일까봐 만든 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "유어리"
-description              : "나태지옥 대기 1순위일까봐 만든 블로그"
+description              : ""
 url                      : "https://kimyouvin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "유어리"
   avatar           : "/assets/moumou.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나태지옥 1순위일까봐 만든 블로그"
+  bio              : "iOS Developer 🧚‍♀️ "
   location         : #""
   email            :
   links:
