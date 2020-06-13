@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "첫글"
 date: 2020-06-13 17:18:28 -0400
 categories: jekyll update
 ---
@@ -20,3 +20,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+아아아 테스트
+참고 페이지는 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+
+​```swift
+let a : String = "코드는 어떻게 나오나"
+// 주석 주석
+​```
