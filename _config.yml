@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "유어리"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/moumou.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**iOS 스터디** 중인 쩌리"
   location         : #""
   email            :
